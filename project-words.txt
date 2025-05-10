@@ -46,6 +46,7 @@ Couriol
 creativecommons
 Csapo
 Csvg
+công
 Dabit
 dabit
 Daishi
@@ -68,6 +69,7 @@ dogfooding
 Dojocat
 Dyte
 dyte
+dụng
 easyops
 Endi
 endi
@@ -107,6 +109,7 @@ hoverable
 Husain
 Héctor
 héllô
+Hướng
 IANAD
 Infima
 inlines
@@ -312,6 +315,8 @@ Tagkey
 Teik
 Therox
 thisweekinreact
+Thuật
+thường
 toplevel
 Transifex
 transpiles
